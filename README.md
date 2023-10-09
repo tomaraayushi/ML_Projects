@@ -2,7 +2,9 @@
 
 Welcome to my repository containing machine learning projects! Below, you'll find a link of each project along:
 
-### Project 1: Linear regression Model to predict the scores of Soccer Players
+### Projects
+
+1. [Linear regression Model to predict the scores of Soccer Players](https://github.com/tomaraayushi/ML_Projects/blob/main/Soccer_Dataset_Linear_regression_model.ipynb)
 
 
 
