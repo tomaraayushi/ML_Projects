@@ -1,6 +1,6 @@
 # ML_Projects
 
-Welcome to my repository containing machine learning projects! Below, you'll find a link of each project along:
+Welcome to my repository of Machine Learning Projects, a space dedicated to my passion for exploring the limitless possibilities of machine learning. Here, you will find a collection of my projects, and learnings as I navigate the fascinating world of artificial intelligence
 
 ### Projects
 
