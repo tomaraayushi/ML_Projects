@@ -5,6 +5,7 @@ Welcome to my repository of Machine Learning Projects, a space dedicated to my p
 ### Projects
 
 1. [Linear regression Model to predict the scores of Soccer Players](https://github.com/tomaraayushi/ML_Projects/blob/main/Soccer_Dataset_Linear_regression_model.ipynb)
+2. [Predicting Credit Card Approvals](https://github.com/tomaraayushi/ML_Projects/blob/main/Predicting_Credit_Card_Approvals.ipynb)
 
 
 
